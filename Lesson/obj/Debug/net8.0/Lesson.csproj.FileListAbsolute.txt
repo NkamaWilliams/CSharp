@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\C#\Lesson\bin\Debug\net8.0\Lesson.exe
+C:\Users\USER\Documents\C#\Lesson\bin\Debug\net8.0\Lesson.deps.json
+C:\Users\USER\Documents\C#\Lesson\bin\Debug\net8.0\Lesson.runtimeconfig.json
+C:\Users\USER\Documents\C#\Lesson\bin\Debug\net8.0\Lesson.dll
+C:\Users\USER\Documents\C#\Lesson\bin\Debug\net8.0\Lesson.pdb
+C:\Users\USER\Documents\C#\Lesson\obj\Debug\net8.0\Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\C#\Lesson\obj\Debug\net8.0\Lesson.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\C#\Lesson\obj\Debug\net8.0\Lesson.AssemblyInfo.cs
+C:\Users\USER\Documents\C#\Lesson\obj\Debug\net8.0\Lesson.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\C#\Lesson\obj\Debug\net8.0\Lesson.dll
+C:\Users\USER\Documents\C#\Lesson\obj\Debug\net8.0\refint\Lesson.dll
+C:\Users\USER\Documents\C#\Lesson\obj\Debug\net8.0\Lesson.pdb
+C:\Users\USER\Documents\C#\Lesson\obj\Debug\net8.0\Lesson.genruntimeconfig.cache
+C:\Users\USER\Documents\C#\Lesson\obj\Debug\net8.0\ref\Lesson.dll
